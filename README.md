@@ -4,27 +4,18 @@ I am a **Software Engineer & Tech Leader** specialized in scalable backend syste
 
 As an engineering leader, I leverage advanced AI agents to accelerate development workflows, shifting my core focus to where human expertise matters most: **System Design, Core Architecture, and Rigorous Software Quality Auditing.**
 
-- 🏗️ **Architectural Vision:** Designing high-performance APIs adhering to SOLID principles and Clean Architecture (both in .NET and Node.js/TypeScript), successfully decoupling core business logic from changing infrastructure layers.
-- 🛡️ **Defensive Engineering:** Implementing industrial-grade application security (AppSec), custom JWT authentication, cryptographic hashing (PBKDF2), and secure data compliance.
-- 🧪 **Quality & Automation:** Guaranteeing system reliability under high load by auditing codebases and building comprehensive automated testing suites (Unit & Integration Testing with xUnit).
+- **Architectural Vision:** Designing high-performance APIs adhering to SOLID principles and Clean Architecture (both in .NET and Node.js/TypeScript), successfully decoupling core business logic from changing infrastructure layers.
+- **Defensive Engineering:** Implementing industrial-grade application security (AppSec), custom JWT authentication, cryptographic hashing (PBKDF2), and secure data compliance.
+- **Quality & Automation:** Guaranteeing system reliability under high load by auditing codebases and building comprehensive automated testing suites (Unit & Integration Testing with xUnit).
 
 *My goal is to lead high-performance engineering efforts, bridge the gap between complex backend logic and real-world business objectives, and scale secure software infrastructure from the ground up.*
 
 ***
-# 💻 Tech Stack:
+# Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=damian-sh&theme=graywhite&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=damian-sh&theme=graywhite&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=damian-sh&theme=graywhite&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+# 🏆 GitHub Trophies:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=damian-sh&theme=graywhite&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=damian-sh&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=damian-sh&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">                                                                                                         
+      <img src="https://trophy.benkou.dev/?username=damian-sh&theme=light&no-frame=true&no-bg=true&margin-w=4" alt="GitHub
+  Trophies" />
+    </p>
