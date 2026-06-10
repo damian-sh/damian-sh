@@ -35,3 +35,14 @@ Como líder de ingeniería, aprovecho agentes avanzados de IA para acelerar los 
       <img src="https://trophy.benkou.dev/?username=damian-sh&theme=light&no-frame=true&no-bg=true&margin-w=4" alt="GitHub
   Trophies" />
     </p>
+
+# 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=damian-sh&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&disable_animations=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damian-sh&theme=graywhite&hide_border=true&layout=compact&langs_count=6&disable_animations=true" height="150" />
+</p>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=damian-sh&label=Profile+Views&color=red&style=flat" alt="Profile Views" />
