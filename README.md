@@ -1,14 +1,30 @@
-# 💫 About Me:
-I am a **Software Engineer & Tech Leader** specialized in scalable backend systems (**.NET & Node.js/TypeScript ecosystems**), Clean Architecture, and Applied Cybersecurity. My work centers on architecting highly scalable, secure, and   
-  resilient digital products that align technical execution with strategic business goals.
+# 💫 Sobre Mí
 
-As an engineering leader, I leverage advanced AI agents to accelerate development workflows, shifting my core focus to where human expertise matters most: **System Design, Core Architecture, and Rigorous Software Quality Auditing.**
+Soy un **Ingeniero de Software y Líder Técnico** especializado en sistemas backend escalables (**ecosistemas de .NET y Node.js/TypeScript**), Arquitectura Limpia y Ciberseguridad Aplicada. Mi trabajo se centra en diseñar productos digitales altamente escalables, seguros y resilientes que alineen la ejecución técnica con los objetivos estratégicos del negocio.
 
-- **Architectural Vision:** Designing high-performance APIs adhering to SOLID principles and Clean Architecture (both in .NET and Node.js/TypeScript), successfully decoupling core business logic from changing infrastructure layers.
-- **Defensive Engineering:** Implementing industrial-grade application security (AppSec), custom JWT authentication, cryptographic hashing (PBKDF2), and secure data compliance.
-- **Quality & Automation:** Guaranteeing system reliability under high load by auditing codebases and building comprehensive automated testing suites (Unit & Integration Testing with xUnit).
+Como líder de ingeniería, aprovecho agentes avanzados de IA para acelerar los flujos de desarrollo, trasladando mi enfoque principal a donde la experiencia humana más importa: **Diseño de Sistemas, Arquitectura Core y Auditorías Rigurosas de Calidad de Software.**
 
-*My goal is to lead high-performance engineering efforts, bridge the gap between complex backend logic and real-world business objectives, and scale secure software infrastructure from the ground up.*
+- **Visión Arquitectónica:** Diseñar APIs RESTful de alto rendimiento bajo principios SOLID y Arquitectura Limpia (tanto en .NET como en Node.js/TypeScript), aislando con éxito la lógica de negocio de los cambios en las capas de infraestructura.
+- **Ingeniería Defensiva:** Implementar seguridad en aplicaciones (AppSec) de nivel empresarial, autenticación JWT personalizada, hash criptográfico (PBKDF2) y cumplimiento de seguridad de datos.
+- **Calidad y Automatización:** Garantizar la confiabilidad del sistema bajo alta carga mediante la auditoría de bases de código y la creación de conjuntos completos de pruebas automatizadas (pruebas unitarias y de integración con xUnit).
+
+*Mi objetivo es liderar equipos de ingeniería de alto rendimiento, cerrar la brecha entre la lógica compleja del backend y los objetivos reales del negocio, y escalar infraestructura de software segura desde cero.*
+<details>
+  <summary><b> 😊 Click here to read in English</b></summary>
+  <br />
+  
+  I am a **Software Engineer & Tech Leader** specialized in scalable backend systems (**.NET & Node.js/TypeScript ecosystems**), Clean Architecture, and Applied Cybersecurity. My work centers on architecting highly scalable, secure, and resilient digital products that align technical execution with strategic business goals.
+
+  As an engineering leader, I leverage advanced AI agents to accelerate development workflows, shifting my core focus to where human expertise matters most: **System Design, Core Architecture, and Rigorous Software Quality Auditing.**
+
+  - **Architectural Vision:** Designing high-performance APIs adhering to SOLID principles and Clean Architecture (both in .NET and Node.js/TypeScript), successfully decoupling core business logic from changing infrastructure layers.
+  - **Defensive Engineering:** Implementing industrial-grade application security (AppSec), custom JWT authentication, cryptographic hashing (PBKDF2), and secure data compliance.
+  - **Quality & Automation:** Guaranteeing system reliability under high load by auditing codebases and building comprehensive automated testing suites (Unit & Integration Testing with xUnit).
+
+  *My goal is to lead high-performance engineering efforts, bridge the gap between complex backend logic and real-world business objectives, and scale secure software infrastructure from the ground up.*
+</details>
+
+<br />
 
 ***
 # Tech Stack:
